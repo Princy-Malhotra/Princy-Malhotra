@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Princy Malhotra</h1>
-<h3 align="center">A passionate undergraduate student, with deep interest in Data Science, AI and Machine Learning.</h3>
+<h3 align="center">"Final year undergraduate at IIT Ropar 🎓 | Aspiring software engineer on a quest to master in-demand skills 🚀 | Navigating the ever-evolving tech terrain 🌐 | Explore my repositories to witness my coding odyssey! 👇"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princy-malhotra&label=Profile%20views&color=0e75b6&style=flat" alt="princy-malhotra" /> </p>
 
